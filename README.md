@@ -74,10 +74,14 @@ A role-based enterprise dashboard designed for structured workflow processing.
 
 <p align="left"> <a href="https://www.github.com/AFROZ81" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-## Badges
+---
 
-<b>My GitHub Stats</b>
+## Project Badges — RVNL Dashboard
 
-<a href="http://www.github.com/AFROZ81"><img src="https://github-readme-stats.vercel.app/api?username=AFROZ81&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="AFROZ81's GitHub stats" /></a>
+![Status](https://img.shields.io/badge/Status-Active%20Development-success)
+![Architecture](https://img.shields.io/badge/Architecture-Role--Based-blue)
+![Backend](https://img.shields.io/badge/Backend-ASP.NET%20Web%20Forms-blueviolet)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-red)
+![UI](https://img.shields.io/badge/UI-Bootstrap-purple)
+![Deployment](https://img.shields.io/badge/Deployment-Internal-lightgrey)
 
-<a href="https://github.com/AFROZ81" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFROZ81&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
