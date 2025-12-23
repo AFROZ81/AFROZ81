@@ -49,6 +49,7 @@ A role-based enterprise dashboard designed for structured workflow processing.
 - Inline editable grids with controlled updates
 - Performance-optimized queries for large datasets
 - Clean, responsive Bootstrap-based UI
+- 
 
 > Code currently private / under active development
 
