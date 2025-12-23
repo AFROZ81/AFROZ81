@@ -74,14 +74,4 @@ A role-based enterprise dashboard designed for structured workflow processing.
 
 <p align="left"> <a href="https://www.github.com/AFROZ81" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
----
-
-## Project Badges — RVNL Dashboard
-
-![Status](https://img.shields.io/badge/Status-Active%20Development-success)
-![Architecture](https://img.shields.io/badge/Architecture-Role--Based-blue)
-![Backend](https://img.shields.io/badge/Backend-ASP.NET%20Web%20Forms-blueviolet)
-![Database](https://img.shields.io/badge/Database-SQL%20Server-red)
-![UI](https://img.shields.io/badge/UI-Bootstrap-purple)
-![Deployment](https://img.shields.io/badge/Deployment-Internal-lightgrey)
 
