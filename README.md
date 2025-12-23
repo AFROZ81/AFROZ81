@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Afroz Alam</h1>
+<h3 align="center">ASP.NET Web Developer | SQL Server | Dashboard Systems</h3>
 
-<!--
-**AFROZ81/AFROZ81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Currently working on **RVNL Dashboard System**
+- 🧠 Strong in **ASP.NET Web Forms, C#, SQL Server**
+- 📊 Building **real-time dashboards & workflow systems**
+- 🚀 Focused on clean UI + solid backend logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** ASP.NET Web Forms, C#
+- **Database:** SQL Server
+- **Tools:** Visual Studio, Git, GitHub
+
+---
+
+### 📌 Featured Project
+🚧 **RVNL Dashboard**  
+A role-based dashboard with:
+- Video Processing & GP Processing workflows  
+- Status-based filtering  
+- SQL triggers & stored procedures  
+- Admin & Viewer views  
+
+👉 *(Code coming soon / Private for now)*
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/AFROZ81
