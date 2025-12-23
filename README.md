@@ -40,11 +40,15 @@ Building role-based dashboards and enterprise workflow systems
 A role-based enterprise dashboard designed for structured workflow processing.
 
 **Key Features**
-- Video Processing & GP Processing workflows
-- Status-driven filtering (Not Started, In Progress, Completed)
-- SQL Server triggers and stored procedures
-- Admin and Viewer role-based access
-- Clean and responsive Bootstrap UI
+- Role-based enterprise dashboard (Admin / Viewer / User)
+- Multi-module workflow system (Video Processing, GP Processing, Block Tracking)
+- Status lifecycle management with advanced filtering logic
+- State, District, Block, and Group-based data segmentation
+- SQL Server stored procedures and triggers for automation and integrity
+- Excel upload with bulk validation and processing
+- Inline editable grids with controlled updates
+- Performance-optimized queries for large datasets
+- Clean, responsive Bootstrap-based UI
 
 > Code currently private / under active development
 
