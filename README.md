@@ -55,11 +55,6 @@ A role-based enterprise dashboard designed for structured workflow processing.
 
 ---
 
-## Connect
-- GitHub: https://github.com/AFROZ81
-
----
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [alamamaan308@gmail.com](mailto:alamamaan308@gmail.com)
 
