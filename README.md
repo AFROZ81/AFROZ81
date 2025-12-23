@@ -31,6 +31,7 @@ Building role-based dashboards and enterprise workflow systems
 **Tools**
 - Visual Studio  
 - Git & GitHub
+- SSMS (SQL Server Management Studio)
 
 ---
 
