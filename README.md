@@ -89,7 +89,3 @@ A role-based enterprise dashboard designed for structured workflow processing.
 <a href="https://www.instagram.com/__amaan__alam__" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
-
-## GitHub Stats
-
-
