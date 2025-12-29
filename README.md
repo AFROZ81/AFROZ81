@@ -8,7 +8,7 @@ Building role-based dashboards and enterprise workflow systems
 ---
 
 ## About Me
-- Currently developing an **enterprise-grade dashboard system (RVNL Dashboard)**
+- Currently developing an **enterprise-grade dashboard system (BharatNet)**
 - Experienced in **ASP.NET Web Forms, C#, and SQL Server**
 - Focused on **data-driven dashboards, workflow automation, and role-based access**
 - Strong emphasis on **clean UI, performance, and backend reliability**
