@@ -50,14 +50,6 @@ I am a dedicated **ASP.NET Web Forms Developer** with a passion for building rob
 
 ---
 
-## 📈 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" />
-</div>
-
----
-
 ## 📫 Connect With Me
 - 📍 **Location:** India
 - 💼 **Availability:** Open to enterprise opportunities and long-term development roles.
