@@ -81,7 +81,6 @@ public class AfrozAlam : ISoftwareDeveloper
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AFROZ81&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&icon_color=CC2927" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFROZ81&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=512BD4&langs_count=8" alt="Top Languages" />
 
 <br/>
