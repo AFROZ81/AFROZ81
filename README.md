@@ -204,8 +204,6 @@ I'm continuously building enterprise-grade **ASP.NET** systems focused on **data
 
 I'm **open to enterprise opportunities and long-term development roles**. If you're hiring an ASP.NET developer who ships reliable, well-architected systems — let's talk.
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC2927,100:512BD4&height=120&section=footer" width="100%" alt="footer" />
 
 <sub>⭐️ Thanks for visiting — built with C# precision and a love for clean systems.</sub>
