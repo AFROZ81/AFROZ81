@@ -89,10 +89,6 @@ public class AfrozAlam : ISoftwareDeveloper
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AFROZ81&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFROZ81&theme=react-dark&hide_border=true&bg_color=0D1117&color=512BD4&line=CC2927&point=ffffff&area=true" alt="Contribution Activity Graph" width="98%" />
 
 </div>
