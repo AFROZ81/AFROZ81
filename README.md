@@ -204,10 +204,6 @@ I'm continuously building enterprise-grade **ASP.NET** systems focused on **data
 
 I'm **open to enterprise opportunities and long-term development roles**. If you're hiring an ASP.NET developer who ships reliable, well-architected systems — let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-alam-704776306)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alamamaan308@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__amaan__alam__)
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC2927,100:512BD4&height=120&section=footer" width="100%" alt="footer" />
