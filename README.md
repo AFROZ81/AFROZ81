@@ -33,12 +33,12 @@ public class AfrozAlam : ISoftwareDeveloper
 }
 ```
 
-- 🔭 &nbsp;Currently engineering the **RVNL BharatNet Dashboard** — an enterprise-grade workflow & infrastructure management platform.
-- ⚙️ &nbsp;I specialize in **role-based dashboards, high-performance backends, and automated enterprise workflows**.
-- 🧩 &nbsp;I care deeply about **data integrity, scalable architecture, and pixel-clean UI**.
-- 🌱 &nbsp;Continuously sharpening **ASP.NET Core MVC, EF Core, and advanced T-SQL**.
-- 💬 &nbsp;Ask me about **C#, SQL Server stored procedures/triggers, and dashboard design**.
-- 📫 &nbsp;Reach me at **alamamaan308@gmail.com**.
+- &nbsp;Currently engineering the **RVNL BharatNet Dashboard** — an enterprise-grade workflow & infrastructure management platform.
+- &nbsp;I specialize in **role-based dashboards, high-performance backends, and automated enterprise workflows**.
+- &nbsp;I care deeply about **data integrity, scalable architecture, and pixel-clean UI**.
+- &nbsp;Continuously sharpening **ASP.NET Core MVC, EF Core, and advanced T-SQL**.
+- &nbsp;Ask me about **C#, SQL Server stored procedures/triggers, and dashboard design**.
+- &nbsp;Reach me at **alamamaan308@gmail.com**.
 
 <br/>
 
