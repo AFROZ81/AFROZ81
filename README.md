@@ -19,7 +19,7 @@
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-## 👋 About Me
+## About Me
 
 ```csharp
 public class AfrozAlam : ISoftwareDeveloper
@@ -43,7 +43,7 @@ public class AfrozAlam : ISoftwareDeveloper
 <br/>
 
 <!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -77,7 +77,7 @@ public class AfrozAlam : ISoftwareDeveloper
 <br/>
 
 <!-- ====================== GITHUB STATS ====================== -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -119,7 +119,7 @@ A high-performance platform that streamlines BharatNet project execution with mu
 </td>
 <td width="50%" valign="top">
 
-### 💰 ExpenseTracker
+### ExpenseTracker
 **Personal finance tracking, account-scoped & secure**
 
 A polished **ASP.NET Core MVC** finance dashboard to manage income, expenses, wallets, budgets, recurring transactions, and visual reports — secured with **ASP.NET Identity**.
@@ -138,7 +138,7 @@ A polished **ASP.NET Core MVC** finance dashboard to manage income, expenses, wa
 <tr>
 <td width="50%" valign="top">
 
-### 📚 LibraryPro
+### LibraryPro
 **Digital collection archive with a desktop-app feel**
 
 A responsive catalog management system using a **"Fixed Viewport Architecture"** — sticky controls, independent scrolling, glassmorphism search, and real-time inventory visualization.
@@ -155,7 +155,7 @@ A responsive catalog management system using a **"Fixed Viewport Architecture"**
 </td>
 <td width="50%" valign="top">
 
-### 🍔 FoodieDash
+### FoodieDash
 **Modern online food ordering system**
 
 A full-stack **MVC** food-ordering platform bridging culinary businesses and customers with an intuitive, responsive interface and clean role-based flows.
@@ -174,7 +174,7 @@ A full-stack **MVC** food-ordering platform bridging culinary businesses and cus
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 IPL Auction System
+### IPL Auction System
 **Player auction & team management simulator**
 
 A C#/ASP.NET application modeling an IPL-style auction — managing teams, budgets, and player bidding logic with a structured data-driven backend.
@@ -186,7 +186,7 @@ A C#/ASP.NET application modeling an IPL-style auction — managing teams, budge
 </td>
 <td width="50%" valign="top">
 
-### 💡 More on the way
+### More on the way
 I'm continuously building enterprise-grade **ASP.NET** systems focused on **data integrity, automation, and clean UI**.
 
 [![All Repos](https://img.shields.io/badge/Browse%20all%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AFROZ81?tab=repositories)
@@ -198,7 +198,7 @@ I'm continuously building enterprise-grade **ASP.NET** systems focused on **data
 <br/>
 
 <!-- ====================== CONTACT ====================== -->
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
