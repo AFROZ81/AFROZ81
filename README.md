@@ -96,7 +96,7 @@ public class AfrozAlam : ISoftwareDeveloper
 <br/>
 
 <!-- ====================== FEATURED PROJECTS ====================== -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
