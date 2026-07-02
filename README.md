@@ -1,6 +1,6 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:CC2927&height=200&section=header&text=Afroz%20Alam&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20%7C%20C%23%20%7C%20SQL%20Server%20Developer&descSize=22&descAlignY=60" width="100%" alt="Afroz Alam banner" />
 
 <a href="https://github.com/AFROZ81">
