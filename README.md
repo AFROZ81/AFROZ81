@@ -79,7 +79,7 @@ public class AfrozAlam : ISoftwareDeveloper
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AFROZ81&theme=react&hide_border=true&background=0D1117&ring=512BD4&fire=CC2927&currStreakLabel=512BD4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=AFROZ81&theme=react&hide_border=true&background=0D1117&ring=512BD4&fire=CC2927&currStreakLabel=512BD4" alt="GitHub Streak" />
 
 <br/>
 
