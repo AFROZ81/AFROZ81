@@ -81,10 +81,6 @@ public class AfrozAlam : ISoftwareDeveloper
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AFROZ81&theme=react&hide_border=true&background=0D1117&ring=512BD4&fire=CC2927&currStreakLabel=512BD4" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AFROZ81&theme=react-dark&hide_border=true&bg_color=0D1117&color=512BD4&line=CC2927&point=ffffff&area=true" alt="Contribution Activity Graph" width="98%" />
-
 </div>
 
 <br/>
