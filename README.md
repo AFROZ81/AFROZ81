@@ -79,21 +79,21 @@ I'm particularly interested in **well-structured backend systems, practical arch
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong> Backend Engineering</strong><br/><br/>
+      <strong>Backend Engineering</strong><br/>
       Designing APIs and maintainable services, with thoughtful application logic and secure authentication.
     </td>
     <td width="50%" valign="top">
-      <strong> Database Development</strong><br/><br/>
+      <strong>Database Development</strong><br/>
       Structuring data, writing efficient queries, and keeping application workflows consistent.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong> Full-Stack Development</strong><br/><br/>
+      <strong>Full-Stack Development</strong><br/>
       Connecting responsive frontend experiences with reliable backend services.
     </td>
     <td width="50%" valign="top">
-      <strong> Software Quality</strong><br/><br/>
+      <strong>Software Quality</strong><br/>
       Building with clear architecture, readable code, practical validation, and usability in mind.
     </td>
   </tr>
