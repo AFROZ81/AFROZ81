@@ -59,6 +59,7 @@ I'm particularly interested in **well-structured backend systems, practical arch
 </div>
 
 <details>
+</br>
 <summary><strong>Explore my technical toolkit</strong></summary>
 
 | Category | Technologies & Concepts |
